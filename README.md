@@ -18,27 +18,27 @@ ________________________________________________________________________________
   LED bar-graph:
     LED1:
       Cathode: Arduino GND
-      Anode:
+      Anode: D2
     ----------------------------
     LED2:
       Cathode: Arduino GND
-      Anode:
+      Anode: D3
     ----------------------------
     LED3:
       Cathode: Arduino GND
-      Anode:
+      Anode: D4
     ----------------------------
     LED4:
       Cathode: Arduino GND
-      Anode:
+      Anode: D5
     ----------------------------
     LED5:
       Cathode: Arduino GND
-      Anode:
+      Anode: D6
     ----------------------------
     LED6:
       Cathode: Arduino GND
-      Anode:
+      Anode: D7
     ----------------------------
     LED7:
       Cathode: Arduino GND
