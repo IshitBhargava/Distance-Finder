@@ -16,7 +16,7 @@
 </pre>
 __________________________________________________________________________________________________
 
-**Hardware:**
+**Hardware Connections:**
 <pre>
   LED bar-graph:
     LED1:
@@ -77,3 +77,18 @@ ________________________________________________________________________________
   ---------------------------------------------------------------------------------------------------
 </pre>
 __________________________________________________________________________________________________________________
+
+**Steps:**
+<pre>
+  NOTE: You can change the LCD address in the code to the address of your LCD, default is 0x27
+  
+  Step 1: Upload code using USB cable.
+  Step 2: DIsconnect the cable.
+  Step 3: Change the switch position to 'ON'.
+
+  Now, your arduino should power on and everything should work as expected.
+  
+</pre>
+
+___________________________________________________________________________________________________________________
+
